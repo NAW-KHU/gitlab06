@@ -3,3 +3,5 @@ java
 c++
 javascript
 reactjs
+Nodejs
+python
